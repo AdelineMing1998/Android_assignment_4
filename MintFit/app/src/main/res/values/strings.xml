@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">薄荷健身</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">点击头像注册</string>
+    <string name="nav_header_subtitle">编辑签名</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_search">搜索</string>
+    <string name="action_notifications">通知</string>
+
+    <string name="nav_home">主页</string>
+    <string name="nav_discover">发现</string>
+    <string name="nav_reservation">场馆预约</string>
+    <string name="nav_coaches">我的教练</string>
+    <string name="nav_records">训练记录</string>
+    <string name="nav_settings">设置</string>
+
+    <string name="logo_content_description">图标标题</string>
+    <string name="get_verification_code">获取验证码</string>
+    <string name="phone_content_description">电子邮件</string>
+    <string name="password_content_description">密码</string>
+    <string name="verification_code_content_description">验证码</string>
+    <string name="login">登录</string>
+    <string name="repeat">重复密码</string>
+    <string name="register">还没有账号？注册一个吧</string>
+    <string name="create">创建用户</string>
+    <string name="username">用户名</string>
+</resources>
